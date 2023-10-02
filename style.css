@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(images/bg-img.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar a{
+    color: white;
+    font-weight: bolder;
+}
+.fs-1{
+    color: white;
+    font-weight: bolder;
+}
+.align-items-center{
+    background-repeat: no-repeat;
+}
+.header{
+    margin-top: 300px;
+    margin-left: 180px;
+    color: white;
+}
+.header h1{
+    font-weight: bolder;
+    font-size: 60px;
+}
+.header p{
+    font-size: 25px;
+    color: grey;
+}
+.mb-3{
+    margin-left: 180px;
+}
